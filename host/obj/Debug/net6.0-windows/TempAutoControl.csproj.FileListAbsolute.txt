@@ -1,0 +1,17 @@
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\bin\Debug\net6.0-windows\TempAutoControl.exe
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\bin\Debug\net6.0-windows\TempAutoControl.deps.json
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\bin\Debug\net6.0-windows\TempAutoControl.runtimeconfig.json
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\bin\Debug\net6.0-windows\TempAutoControl.dll
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\bin\Debug\net6.0-windows\ref\TempAutoControl.dll
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\bin\Debug\net6.0-windows\TempAutoControl.pdb
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\TempAutoControl.csproj.AssemblyReference.cache
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\TempAutoControl.Form_Main.resources
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\TempAutoControl.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\TempAutoControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\TempAutoControl.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\TempAutoControl.AssemblyInfo.cs
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\TempAutoControl.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\TempAutoControl.dll
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\ref\TempAutoControl.dll
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\TempAutoControl.pdb
+C:\Users\Tom\Desktop\TempControlProjectUp\TempAutoControl\obj\Debug\net6.0-windows\TempAutoControl.genruntimeconfig.cache
